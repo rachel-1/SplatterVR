@@ -1,0 +1,82 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 980 Ti (ID=0x17c8)
+    Vendor:   NVIDIA
+    VRAM:     6103 MB
+    Driver:   21.21.13.7849
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\splattervr\final_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\splattervr\final_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\splattervr\final_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\splattervr\final_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\splattervr\final_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\splattervr\final_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\splattervr\final_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\splattervr\final_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\splattervr\final_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\splattervr\final_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\splattervr\final_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\splattervr\final_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: E:\splattervr\final_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\splattervr\final_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: E:\splattervr\final_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading E:\splattervr\final_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+- Completed reload, in  0.252 seconds
+Platform assembly: E:\splattervr\final_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\splattervr\final_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+VR: OpenVR Error! OpenVR failed initialization with error code VRInitError_IPC_ConnectFailedAfterMultipleAttempts: "Shared IPC Connect Failed After Multiple Attempts (308)"!
+ 
+(Filename:  Line: 954)
+
+OpenVR initialized!
+ 
+(Filename:  Line: 381)
+
+[VRDevice] Successfully created device OpenVR.
+The referenced script on this Behaviour (Game Object 'TrackingRestored') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'TrackingLost') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Calibration') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 3.955127 ms
+Connected to lighthouse:LHR-3EA2E53E
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 2bc0 -> priority: 1 
+  Thread -> id: 28b8 -> priority: 1 
+  Thread -> id: 2924 -> priority: 1 
+ChaperoneInfo initialized. Roomscale play area 3.20m x 1.90m
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+activating laserpointer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+disabling laserpointer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+activating laserpointer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OpenVR Shutdown
+ 
+(Filename:  Line: 815)
+
