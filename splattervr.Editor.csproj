@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{2C5E3D53-AA48-ED91-6343-DBA084D676F1}</ProjectGuid>
+    <ProjectGuid>{5327EEEC-20E6-0B03-613E-F453FF6AC880}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -117,9 +117,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="splattervr.csproj">
-      <Project>{74025F8A-2199-F75F-2BCC-F494AB8EDF91}</Project>
-      <Name>splattervr</Name>
+    <ProjectReference Include="SplatterVR.csproj">
+      <Project>{7BDF6CD0-B889-06E4-1C25-E036C0B52824}</Project>
+      <Name>SplatterVR</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

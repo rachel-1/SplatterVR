@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "splattervr", "splattervr.csproj", "{74025F8A-2199-F75F-2BCC-F494AB8EDF91}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplatterVR", "SplatterVR.csproj", "{7BDF6CD0-B889-06E4-1C25-E036C0B52824}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "splattervr.Editor", "splattervr.Editor.csproj", "{2C5E3D53-AA48-ED91-6343-DBA084D676F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplatterVR.Editor", "SplatterVR.Editor.csproj", "{5327EEEC-20E6-0B03-613E-F453FF6AC880}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,14 +11,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{74025F8A-2199-F75F-2BCC-F494AB8EDF91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{74025F8A-2199-F75F-2BCC-F494AB8EDF91}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{74025F8A-2199-F75F-2BCC-F494AB8EDF91}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{74025F8A-2199-F75F-2BCC-F494AB8EDF91}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2C5E3D53-AA48-ED91-6343-DBA084D676F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2C5E3D53-AA48-ED91-6343-DBA084D676F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2C5E3D53-AA48-ED91-6343-DBA084D676F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2C5E3D53-AA48-ED91-6343-DBA084D676F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BDF6CD0-B889-06E4-1C25-E036C0B52824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BDF6CD0-B889-06E4-1C25-E036C0B52824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BDF6CD0-B889-06E4-1C25-E036C0B52824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BDF6CD0-B889-06E4-1C25-E036C0B52824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5327EEEC-20E6-0B03-613E-F453FF6AC880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5327EEEC-20E6-0B03-613E-F453FF6AC880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5327EEEC-20E6-0B03-613E-F453FF6AC880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5327EEEC-20E6-0B03-613E-F453FF6AC880}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
